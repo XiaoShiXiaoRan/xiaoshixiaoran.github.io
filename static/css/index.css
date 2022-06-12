@@ -1,6 +1,9 @@
 ﻿* {
     box-sizing: border-box;
 }
+a{
+    text-decoration:none;
+}
 html {
     height: 100%;
 }
@@ -231,6 +234,10 @@ img {
 }
 aside_content .card-info .author-info__description {
     margin-top: -.3rem;
+}
+.author-info__description a{
+    color: #FF0066;
+    font-size: 1.5re;
 }
 #aside_content .card-info .card-info-social-icons {
     margin: .3rem 0 -.3rem;
