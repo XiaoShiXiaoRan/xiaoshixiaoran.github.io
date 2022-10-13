@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+        body{
+            width: auto;
+            height: auto;
+            margin: auto;
+            padding-left: 130px;
+            padding-right: 130px;
+        }
+.bag{
+	background:url("../12.jpg")no-repeat 140px 0px;
+	background-attachment: fixed;
+	background-size:87% 100%;
+	background-color:#A8F4F8;
+	opacity: 0.8;
+}
+        h4{
+            font-size: 14px;
+            color:#70808E;
+        }
+        img{
+            width: 120px;
+            height: 44px;
+            display: inline-block;
+            padding-bottom: 11px;
+			opacity: 0.3;
+        }
+        .AS{
+            text-align: center;
+            line-height: 44px;
+        }
+        .A{
+            padding-top: 40px;
+            letter-spacing: 30px;/*字母间隔*/
+            /*text-align: center;*/
+            font-family: 华文新魏;
+            font-size: 36px;
+            display: inline-block;
+            line-height: 44px;
+            padding-left: 23px;
+        }
+        .c1{
+            color:#FF0004;
+        }
+        .c2{
+            color:blueviolet;
+        }
+        .c3{
+            color: darkgreen;
+        }
+        .c4{
+            color:#FF5722;
+        }
+span{
+	color:#F346A1;
+	font-weight: 500;
+	font-size: 16px;
+}
+        .D5{
+            margin-left: 1020px;
+            color:lightgray;
+        }
+        .D5>span{
+            color: red;
+        }
+
