@@ -1,5 +1,6 @@
 ﻿* {
     box-sizing: border-box;
+    font-size: 1.1rem;
 }
 a{
     text-decoration:none;
@@ -346,4 +347,17 @@ aside_content .card-info .author-info__description {
     background-color: transparent
 }
 
-
+blockquote {
+    border-left: 4px solid #dfe2e5;
+    padding: 0 15px;
+    color: #777777;
+    margin: 15px 0;
+}
+.bg div{
+    height: 30px;
+    width: 30px;
+    margin: 5px 10px;
+    float:right;
+    cursor: pointer;
+    background: #FF0004;
+}
