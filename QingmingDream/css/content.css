@@ -66,3 +66,9 @@ span{
             font-size: 1.4rem;
         }
 
+span > img{
+    min-width: 1000px;
+    min-height: 700px;
+    opacity:1;
+}
+
