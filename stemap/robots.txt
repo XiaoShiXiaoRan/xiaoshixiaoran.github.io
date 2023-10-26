@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://xiaoshixiaoran.github.io/sitemap.xml
